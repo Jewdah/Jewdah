@@ -1,4 +1,4 @@
-# Hi there 👋, Im Steven. 
+# Hi there 👋, I'm Steven. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Jewdah.repoName) [![GitHub followers](https://img.shields.io/github/followers/Jewdah.svg?style=social&label=Follow)](https://github.com/Jewdah?tab=followers)<br/>
 
 <img align="right" width=290 alt="Unicorn" src="https://cdn.pixabay.com/animation/2023/05/31/16/22/16-22-19-869_512.gif" />
