@@ -80,6 +80,12 @@ I am a software engineer currently pursuing a specialization in IT Project Manag
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jewdah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jewdah&layout=compact&langs_count=8&theme=algolia"/>
+
+<div align="center">
+  
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Jewdah&theme=algolia)](https://github.com/Jewdah)
+
+</div>
 </a>
 </p>
 
