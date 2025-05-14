@@ -95,12 +95,11 @@ I am a software engineer currently pursuing a specialization in IT Project Manag
 </a>
 <a href= "https://www.linkedin.com/in/david-gamba-042212236/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href= "https://www.tiktok.com/@stvens777">
+<!--</a><a href= "https://www.tiktok.com/@stvens777">
 <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
 </a>
 <a href= "https://www.twitch.tv/stvens">
 <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
-</a>
+</a>-->
 
 
